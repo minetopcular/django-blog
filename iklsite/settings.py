@@ -25,7 +25,7 @@ SECRET_KEY = '_oavpio#(u&7r!$mhyd^#)3oiwdqaikeni-0n4xn51sey@l-64'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['minetopcular.pythonanywhere.com']
 
 
 # Application definition
